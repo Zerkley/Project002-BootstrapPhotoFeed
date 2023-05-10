@@ -1,0 +1,15 @@
+.encabezado{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 2%;
+    padding-left: 2%;
+}
+
+.fecha{
+    font-size:x-small;
+
+}
+.card-text{
+    font-size: small;
+}
