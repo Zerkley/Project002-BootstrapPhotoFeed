@@ -8,8 +8,12 @@
 
 .fecha{
     font-size:x-small;
-
+    margin-top: 4px;
 }
 .card-text{
     font-size: small;
+}
+
+.card-img-top{
+    border-radius: 0;
 }
